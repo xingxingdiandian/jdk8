@@ -1,4 +1,4 @@
-package com.demo1.FunctionalInterface;
+package com.itheima.demo1.FunctionalInterface;
 
 /**
  * @author shangli

@@ -1,4 +1,4 @@
-package com.demo3.LambdaTest;
+package com.itheima.demo3.LambdaTest;
 
 import java.util.Arrays;
 import java.util.Comparator;

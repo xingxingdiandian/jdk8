@@ -1,4 +1,4 @@
-package com.demo2.lambda;
+package com.itheima.demo2.lambda;
 
 /**
  * @author shangli
