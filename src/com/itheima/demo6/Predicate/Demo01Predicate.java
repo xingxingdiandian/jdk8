@@ -15,7 +15,7 @@ import java.util.function.Predicate;
  *
  * @date create in 2020/5/13 18:22
  */
-public class Demo01Perdicate {
+public class Demo01Predicate {
     /**
         定义一个方法
         参数传递一个String类型的字符串
